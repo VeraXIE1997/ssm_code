@@ -32,6 +32,16 @@ public class PromotionAd {
     // 优先级
     private Integer priority;
     private String img;
+    //广告位 一对一查询
+    private PromotionSpace promotionSpace;
+
+    public PromotionSpace getPromotionSpace() {
+        return promotionSpace;
+    }
+
+    public void setPromotionSpace(PromotionSpace promotionSpace) {
+        this.promotionSpace = promotionSpace;
+    }
 
     public String getText() {
         return text;

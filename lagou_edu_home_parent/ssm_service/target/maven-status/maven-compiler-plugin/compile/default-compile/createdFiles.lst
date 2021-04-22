@@ -1,2 +1,10 @@
-com\lagou\service\impl\CourseServiceImpl.class
+com\lagou\service\impl\ResourceServiceImpl.class
+com\lagou\service\impl\UserServiceImpl.class
+com\lagou\service\impl\MenuServiceImpl.class
+com\lagou\service\ResourceService.class
 com\lagou\service\CourseService.class
+com\lagou\service\UserService.class
+com\lagou\service\MenuService.class
+com\lagou\service\impl\ResourceCategoryServiceImpl.class
+com\lagou\service\ResourceCategoryService.class
+com\lagou\service\impl\CourseServiceImpl.class

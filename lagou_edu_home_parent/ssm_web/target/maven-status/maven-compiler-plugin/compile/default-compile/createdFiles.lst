@@ -1,1 +1,5 @@
+com\lagou\controller\UserController.class
+com\lagou\controller\ResourceCategoryController.class
+com\lagou\controller\ResourceController.class
+com\lagou\controller\MenuController.class
 com\lagou\controller\CourseController.class
